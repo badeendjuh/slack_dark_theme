@@ -3,7 +3,7 @@
 function set_vars() {
 
   # Link to where the CSS resides.
-  css_link="https://raw.githubusercontent.com/gio-salvador/slack_dark_theme/master/dark_theme.css"
+  css_link="https://raw.githubusercontent.com/badeendjuh/slack_dark_theme/master/dark_theme.css"
   # Path to the file to be edited.
   slack_edit="/Applications/Slack.app/Contents/Resources/app.asar.unpacked/src/static/ssb-interop.js"
 
